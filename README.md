@@ -1,4 +1,4 @@
-# FastAPI App
+ # FastAPI App
 
 A production-grade FastAPI project scaffold — ready for AI integrations, database layers, authentication, and more.
 
